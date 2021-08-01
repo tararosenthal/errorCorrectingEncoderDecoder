@@ -11,6 +11,6 @@
 - P1 is parity for every other value.
 - P2 is parity for every other set of two values.
 - P4 is parity for every other set of 4 values.
-- D corresponds to bit from original data
+- D corresponds to bit value from original data
 - 0 is always empty due to shortened format
 
